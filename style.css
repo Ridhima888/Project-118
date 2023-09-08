@@ -1,0 +1,19 @@
+body{
+    background-color: azure;
+}
+#span_score{
+    font-size: 22;
+    float: left;
+    margin-left: 15px;
+}
+#span_timer{
+    font-size: 22;
+    float: right;
+    margin-right: 15px;
+}
+#para3{
+    color: black;
+}
+#show_sketch{
+    float: right;
+}
